@@ -1,0 +1,187 @@
+body
+{
+	background: #303030;
+	font-family: 'Lato', sans-serif;
+}
+
+#container
+{
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.rectangle
+{
+	color:white;
+	text-align:center;
+}
+
+#logo
+{
+	font-family: 'Josefin Sans', sans-serif;
+	text-align:left;
+	float:left;
+	width:600px;
+	font-size:45px;
+	padding:20px;
+}
+
+#zegar
+{
+	font-family: 'Josefin Sans', sans-serif;
+	text-align:left;
+	float:left;
+	font-size:45px;
+	padding:20px;
+}
+
+.square
+{
+	color:white;
+	text-align:center;
+	float:left;
+	width:50%;
+}
+
+.tile1
+{
+	margin:10px;	
+	float:left;
+	background-color:#2095d3;
+	width:230px;
+	height:142px;
+}
+.tile1:hover
+{
+	background-color:#1084c2;
+	cursor:pointer;
+}
+
+.tile2
+{
+	margin:10px;
+	float:left;
+	background-color: #666666;
+	width:230px;
+	height:142px;
+}
+.tile2:hover
+{
+	background-color:#555555;
+	cursor:pointer;
+}
+
+.tile3
+{
+	margin:10px;
+	float:left;
+	background-color:#93c748;
+	width:230px;
+	height:142px;
+}
+.tile3:hover
+{
+	background-color:#82b637;
+	cursor:pointer;
+}
+
+.tile4
+{
+	margin:10px;
+	background-color:#ee5a32;
+	width:420px;
+	height:82px;
+	font-size:26px;
+	padding:30px;
+}
+
+.tile5
+{
+	margin:10px;
+	background-color:#666666;
+	width:420px;
+	height:244px;
+	text-align:justify;
+	padding:30px;
+}
+
+.yt
+{
+	float:left;
+	background-color:#d94348;
+	margin:10px;
+	width:105px;
+	height:142px;
+}
+.yt:hover
+{
+	background-color:#c83237;
+	cursor:pointer;
+}
+
+.fb
+{
+	float:left;
+	background-color:#4668b3;
+	margin:10px;
+	width:105px;
+	height:142px;
+}
+.fb:hover
+{
+	background-color:#3557a2;
+	cursor:pointer;
+}
+
+.gplus
+{
+	float:left;
+	background-color:#d95333;
+	margin:10px;
+	width:105px;
+	height:142px;
+}
+.gplus:hover
+{
+	background-color:#c84222;
+	cursor:pointer;
+}
+
+.tw
+{
+	float:left;
+	background-color:#3095d3;
+	margin:10px;
+	width:105px;
+	height:142px;
+}
+.tw:hover
+{
+	background-color:#2084c2;
+	cursor:pointer;
+}
+a.tilelink
+{
+	color:white;
+	text-decoration:none;
+	display:block;
+	width:230px;
+	height:142px;
+}
+
+a.tilelinkhtml
+{	
+	color:white;
+	text-decoration:none;
+}
+
+a.sociallink
+{
+	color:white;
+	text-decoration:none;
+	display:block;
+	width:105px;
+	height:142px;
+}
+
